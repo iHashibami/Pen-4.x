@@ -1,7 +1,7 @@
-# Pen-4.x - An Julian's Editor open-source project!
+# Pen! 4.x - An Julian's Editor open-source project!
 
 
-**Pen 4.x** is a custom drawing language built inside [Julian's Editor](https://s.julianseditor.com/PvR5L1), inspired by Turtle Graphics and the pen extension from Scratch. It features a simple command syntax that allows users to create shapes, animations, and patterns with code.
+**Pen! 4.x** is a custom drawing language built inside [Julian's Editor](julianseditor.com), inspired by Turtle Graphics and the pen extension from Scratch. It features a simple way of programming that allows users to create shapes, animations, and patterns with code.
 
 ---
 
@@ -13,19 +13,19 @@ Try it here: [https://s.julianseditor.com/PvR5L1](https://s.julianseditor.com/Pv
 
 ## Features
 
-* Block-based drawing system (Lining.pe language)
+* Block-based drawing system and coding (Lining.pe)
 
-* Support for absolute and relative positioning
+* Support for absolute positioning
 
 * Pen state management (up, down, show, hide)
 
-* Custom movement speed
-
 * Gradual drawing
+
+* Control over the pen (color, size, speed)
 
 ---
 
-## Command Overview
+## Command Overview (note: these are the block names that I made in Julian's Editor.)
 
 ### Commands with Inputs:
 
@@ -41,6 +41,7 @@ Try it here: [https://s.julianseditor.com/PvR5L1](https://s.julianseditor.com/Pv
 * `pencolor(color)`
 * `speed(x)`
 * `bgcolor(color)`
+* `circle(segments , orientation , direction , size)`
 
 ### Commands without Inputs:
 
@@ -57,7 +58,7 @@ Try it here: [https://s.julianseditor.com/PvR5L1](https://s.julianseditor.com/Pv
 
 ---
 
-## Example: Drawing a Circle
+## Example: Drawing a circle without circle()
 
 ```
 #This is a pseudocode!
@@ -70,15 +71,17 @@ repeat 36 times:
 
 ---
 
-## Version History
+## Version history
 
 * **V1**: Initial release into the 4.x JE version!
+* **V2**: Made it easier and fixed tons of bugs!
+* **V3**: Added circle()!
 
 ---
 
 ## License
 
-Pen 4.x is an open-source project. Feel free to modify, remix, and share!
+Pen 4.x is an open-source project, you just have to add my name. Feel free to modify, remix, and share in Julian's Editor!
 
 ---
 
