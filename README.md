@@ -1,7 +1,7 @@
 # Pen! 4.x - An Julian's Editor open-source project!
 
 
-**Pen! 4.x** is a custom drawing language built inside [Julian's Editor](julianseditor.com), inspired by Turtle Graphics and the pen extension from Scratch. It features a simple way of programming that allows users to create shapes, animations, and patterns with code.
+**Pen! 4.x** is a custom drawing language built inside [Julian's Editor](https://global.julianseditor.com/app/), inspired by Turtle Graphics and the pen extension from Scratch. It features a simple way of programming that allows users to create shapes, animations, and patterns with code.
 
 ---
 
