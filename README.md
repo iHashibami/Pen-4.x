@@ -42,6 +42,10 @@ Try it here: [https://s.julianseditor.com/PvR5L1](https://s.julianseditor.com/Pv
 * `speed(x)`
 * `bgcolor(color)`
 * `circle(segments , orientation , direction , size)`
+* `stamp(stamp_id)`
+* `clearstamp(stamp_id)`
+* `clearstamps(range)`
+* `write[(text , isbold , color , size)outline(outline_size , outline_color)]`
 
 ### Commands without Inputs:
 
@@ -55,6 +59,7 @@ Try it here: [https://s.julianseditor.com/PvR5L1](https://s.julianseditor.com/Pv
 * `isvisible()`
 * `heading()`
 * `position()`
+* `isdown()`
 
 ---
 
@@ -77,6 +82,7 @@ repeat 36 times:
 * **V2**: Made it easier and fixed tons of bugs!
 * **V3**: Added circle()!
 * **V4**: Massive optimization update!
+* **V5**: Added stamp() commands, isdown() value and write[()outline()] command!
 
 ---
 
