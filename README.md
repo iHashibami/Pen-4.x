@@ -76,6 +76,7 @@ repeat 36 times:
 * **V1**: Initial release into the 4.x JE version!
 * **V2**: Made it easier and fixed tons of bugs!
 * **V3**: Added circle()!
+* **V4**: Massive optimization update!
 
 ---
 
